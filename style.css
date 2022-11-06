@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header nav start*/
+.header-color{
+    background-color: #5bc0b7;;
+}
+.phone{
+    font-size: 13px;
+    color: white ;
+    font-weight: 700;
+}
+.icon-header{
+   width: 1.8rem;
+   height: 1.8rem;
+   border-radius: 50%;
+   background-color: white;
+   text-align:center;
+   margin-top: .5rem;
+   
+   
+}
+.fa-facebook-f,.fa-youtube,.fa-twitter,.fa-instagram{
+  font-size: 20px;
+  color: #5bc0b7;
+  line-height: 30px;
+ 
+ 
+}
+/* header nav  end */
+/* navber start */
+.nave-w{
+    width: 85% !important;
+    height: 4rem;
+    background-color: #1EB3A6;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+   
+  
+}
+.nave-login{
+    border: 1px solid red;
+    background-color:white;
+    border: none;
+    width: 12rem;
+    height:4rem;
+    clip-path: polygon(18% 0,100% 0,100% 100%,0 100%);
+}
+/* navber end */
+/* hero section start */
+.hero-section{
+    background-color: #5bc0b7;
+}
+.left-content{
+    margin-top: 6rem !important;
+}
+.para-hero{
+   line-height: 35px;
+}
+.login-hero{
+    padding: 7px 35px;
+    font-size: 18px;
+    background-color:  #f90;
+    border: none;
+    margin-bottom: 10rem;
+}
+.hero-img{
+    width: 400px;
+    height: 425px;
+}   
+.hero-img img{
+    width: 100%;
+}
+/* hero section end */
+ /*continew news start */
+.lates-news{
+    background-color: #f90;
+    height: 3.3rem;
+    color: white;
+    padding: 0 !important;
+    margin: 0 !important;
+    
+}
+.continew-news{
+   background-color: #1EB3A6;
+   height: 3.3rem;
+   color: white;
+   
+}
+/*continew  news end */
+ /* notice table start*/
+.notice-btn{
+   background-color:#1EB3A6;
+   width: 8rem;
+   height: 2.5rem;
+   margin-left: 5rem;
+   border: none;
+   color: white;
+   font-size: 15px;
+   border-radius: 5px;
+}
+.notice-content{
+    height: 4.5rem;
+}
+/* notice table end */
+/* about start */
+.about{
+    margin-top: 5rem;
+}
+.bg-box{
+    background-color: #1EB3A6;
+    width: 480px; 
+    height: 400px;
+    border: 8px solid #f90; 
+    border-radius: 22px;
+}
+.all-img{
+    position: absolute;
+}
+.about-img-1{
+    position: absolute;
+    top: 8rem;
+    left: 3rem;
+}
+.about-img-2{
+    position: absolute;
+}
+.about-img-3{
+    position: absolute;
+    top: 18rem;
+    left: 9rem;
+}
+.about-head{
+    color: rgb(255, 225, 0);
+}
+.about-praghap{
+    line-height: 40px;
+}
+.about-2{
+    background-color: #1EB3A6;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 25%;
+}
+/* about end */
+/* teacher start */
+.teacher-box{
+    width: 400px;
+    height: 446px;
+    background-color: #5bc0b7;
+    position: absolute;
+    top: 8rem;
+    
+}
+.teacher-img{
+    width:500px ;
+   position: relative;
+   left: 14rem;
+
+}
+.teacher{
+    margin-top: 5rem !important;
+    margin-bottom: 10rem;
+}
+.teacher-img img{
+    width: 100%;
+}
+.teacher-about{
+    margin-top: 7rem !important;
+}
+/* teacher end */
+/* footer start */
+.footer{
+    background-color: #1EB3A6;
+}
+/* footer end */
+.box{
+    background-color:#1EB3A6;
+    width: 1rem;
+    height: 1rem;
+    transform: rotate(45deg);
+    position: absolute;
+}
+.box-2{
+    background-color:#1EB3A6;
+    width: 1rem;
+    height: 1rem;
+    position: relative;
+    left: 215px;
+    bottom: 3px;
+    transform: rotate(45deg);
+}
+.bar{
+  background-color: #1EB3A6;
+  width: 200px;
+  height: 3px;
+  position:relative;
+  top: 6px;
+  left: 14px;
+
+}
+
+

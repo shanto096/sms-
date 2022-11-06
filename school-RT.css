@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* search */
+.search-admision-result{
+    border: 0.5px solid rgb(138, 138, 138);
+    width: 45%;
+    height: 74vh;
+    background-color: rgb(219, 243, 243);
+    padding: 3rem;
+    border-radius: 5px;
+    
+}
+.label-from{
+    font-size: 17px;
+    font-style: bold;
+    font-weight: 700;
+    color: rgb(87, 87, 87);
+}
+.f{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 40px;
+   
+}
+.input-from{
+   width: 100%;
+   height: 2.8rem;
+   border-radius: 7px;
+   border: 0.5px solid rgb(155, 154, 154);
+   font-size: 14px !important;
+   padding-left: 10px;
+   font-weight: 500;
+   color: rgb(126, 126, 126);
+   background-color: rgb(241, 238, 235);
+}
+.from-gap{
+   margin-top: 2rem !important;
+}
+.btn-from{
+    margin-top: 1.5rem !important;
+    margin-left: 9.5rem;
+    
+
+}
+.btn-1{
+    background-color: #5bc0b7 !important;
+    margin-right: 20px;
+}
+.btn-2{
+    background-color: #f90 !important;
+}
+.btn{
+    padding: .5rem 3rem !important;
+   border-radius: 7px !important;
+   font-size: 18px !important;
+   font-weight: 500 !important;
+   color: white;
+}
+/* search end */
+/* result */
+.result-from{
+    margin-top: 5rem;
+    border: 1px solid rgb(194, 193, 193);
+    width: 60%;
+    height: 68rem;
+    margin-bottom: 5rem;
+    background-color: azure;
+}
+.result-from-input{
+    margin-left: 3.8rem;
+    margin-top: 1rem !important;
+    width: 80% !important;
+    
+}
+.result-2{
+    border: .5px solid rgb(149, 148, 148);
+    width: 37%;
+    height: 2.5rem;
+    font-size: 15px;
+}
+.total{
+ padding-left: 20rem;
+}
